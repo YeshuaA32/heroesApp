@@ -14,7 +14,7 @@ const routes: Routes = [
                 component:LoginPageComponent
             },
             {
-                path:'new.account',
+                path:'new-account',
                 component:RegisterPageComponent
             },
             {
