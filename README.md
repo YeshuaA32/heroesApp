@@ -1,6 +1,12 @@
 # HeroesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+## Dev
+1. Clonar el proyecto
+2. Ejecutar ``` npm install ```
+3. Levantar backend ``` npm run backend ```
+4. Ejecutar la app  ``` npm start ``` o bien ``` ng serve -o ```
+
+<!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server
 
@@ -24,4 +30,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. -->
